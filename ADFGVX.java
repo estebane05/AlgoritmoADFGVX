@@ -556,11 +556,11 @@ public class AlgoritmoAdfgvx {
         "        |                       Sintaxis de Ejecucion                             |\n" + 
         "        |     1. Codificacion con clave                                           |\n" +
         "        |                                                                         |\n" +
-        "        |     java -jar AlgoritmoAdfgvx.jar -c -k [Archivo.txt] [clave.txt]       |\n" +
+        "        |     java AlgoritmoAdfgvx.jar -c -k [Archivo.txt] [clave.txt]            |\n" +
         "        |                                                                         |\n" +
         "        |     2. Decodificacion con clave                                         |\n" +
         "        |                                                                         |\n" +
-        "        |     java -jar AlgoritmoAdfgvx.jar -D -K [Archivo.txt] [clave.txt]       |\n" +
+        "        |     java AlgoritmoAdfgvx.jar -D -K [Archivo.txt] [clave.txt]            |\n" +
         "        |                                                                         |\n" +
         "        |                                                                         |\n" +
         "        |     Universidad Autónoma de Occidente                                   |\n" +
